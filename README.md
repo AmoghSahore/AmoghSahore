@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Kotlin and Rust
 - 💞️ I’m looking to collaborate on open source projects which are created using OOP languages like java, python, C, etc
 - 📫 How to reach me - amogh.sahore@gmail.com
-- ⚡ Fun fact: I have learnt java for 4 years academically from 9th to 12th class.
 
 <!---
 AmoghSahore/AmoghSahore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
